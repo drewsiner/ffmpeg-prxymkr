@@ -6,7 +6,7 @@ import os, subprocess
 viddir_input = "/users/vids"
 
 # Add NEW fps
-fps = "24"
+fps = "23.976"
 
 # Add NEW encoder
 filety = "prores"
